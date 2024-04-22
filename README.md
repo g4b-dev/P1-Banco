@@ -1,6 +1,9 @@
-# P1-Banco
+P1-Banco
+
 Aplicação flask realizando um CRUD conectado com um padrão MVC e Repository Pattern para login de usuários.
+
 Professor: Fabrício Dias *Único envolvimento nesta cagada
+
 Resumo:
 Inicialmente feito um padrão MVC para login e registro de usuários;
 Adicionado um padrão de projeto Repository pattern para o delete, create e find, logo excluindo, criando e buscando usuários;
