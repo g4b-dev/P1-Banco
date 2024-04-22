@@ -5,7 +5,7 @@ Aplicação flask realizando um CRUD conectado com um padrão MVC e Repository P
 Professor: Fabrício Dias *Único envolvimento nesta cagada
 
 Resumo:
-Inicialmente feito um padrão MVC para login e registro de usuários;
+Inicialmente feito um padrão MVC para login e registro de usuários
 Adicionado um padrão de projeto Repository pattern para o delete, create e find, logo excluindo, criando e buscando usuários;
 Também adicionado o arquivo server.js para iniciar o servidor com express;
 ---------------------------------------------------
